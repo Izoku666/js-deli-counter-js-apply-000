@@ -80,10 +80,10 @@ function currentLine(line){
 }
 
 
+var newArray = [];
 function lineCounter(line)
 {
   var count = 0;  //count of overall tickets
-
   
 }
 
