@@ -80,4 +80,11 @@ function currentLine(line){
 }
 
 
+function lineCounter(line)
+{
+  var count = 0;  //count of overall tickets
+
+  
+}
+
 
