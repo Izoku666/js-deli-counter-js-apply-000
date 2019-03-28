@@ -81,9 +81,10 @@ function currentLine(line){
 
 
 var newArray = [];
-function lineCounter(line)
+function lineCounter(line)  // pass in newArray[]
 {
   var count = 0;  //count of overall tickets
+  
   
 }
 
