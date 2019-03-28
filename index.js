@@ -86,7 +86,7 @@ function lineCounter(line)  // pass in newArray[]
 {
   count++;
   newArray.push(count); // pushes the current count
-  
+  return `You are number ${count} ${newArray.length}`;
 }
 
 
